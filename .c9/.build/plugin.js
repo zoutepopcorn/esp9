@@ -182,8 +182,4 @@ function hoi() {
                         }
                         
                     });
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 243c59651dbbe665cbff62e7a6e3e06d83651eea

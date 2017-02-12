@@ -1,0 +1,26 @@
+{
+  "name": "esp9",
+  "description": "compile for esp8266.",
+  "version": "0.2.0",
+  "author": "Johan Hoeksma",
+  "permissions": "world",
+  "contributors": [
+    {
+      "name": "",
+      "email": ""
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zoutepopcorn/esp9.git"
+  },
+  "plugins": {
+    "esp9": {
+      "packagePath": "plugins/esp9/esp9"
+    }
+  },
+  "categories": [
+    "miscellaneous"
+  ],
+  "licenses": []
+}
